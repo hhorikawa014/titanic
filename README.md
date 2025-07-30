@@ -1,3 +1,5 @@
+- train.ipynb worked better than titanic_proj.ipynb.
+
 - Categorial features were converted to numerical features by one-hot encoding.
 - For missing values, if labels were missing, they were simply removed since they couldn't be used to train the model. If feature values were missing, they were replaced
 with the mode of their feature.
